@@ -1,0 +1,161 @@
+read4k-rand: (g=0): rw=randread, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=libaio, iodepth=1
+...
+fio-3.7
+Starting 256 processes
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+read4k-rand: Laying out IO file (1 file / 5120MiB)
+
+read4k-rand: (groupid=0, jobs=256): err= 0: pid=233217: Wed Aug 12 01:04:39 2020
+   read: IOPS=326, BW=1279KiB/s (1310kB/s)(37.8MiB/30270msec)
+    slat (usec): min=6, max=111336, avg=168.31, stdev=2289.26
+    clat (usec): min=5, max=1814.2k, avg=178150.79, stdev=314827.30
+     lat (usec): min=1089, max=1814.3k, avg=178320.38, stdev=314901.25
+    clat percentiles (usec):
+     |  1.00th=[   1680],  5.00th=[   2835], 10.00th=[   4490],
+     | 20.00th=[   7504], 30.00th=[  12125], 40.00th=[  20841],
+     | 50.00th=[  34341], 60.00th=[  60031], 70.00th=[ 121111],
+     | 80.00th=[ 267387], 90.00th=[ 591397], 95.00th=[ 926942],
+     | 99.00th=[1451230], 99.50th=[1451230], 99.90th=[1468007],
+     | 99.95th=[1468007], 99.99th=[1820328]
+   bw (  KiB/s): min=    2, max=  276, per=1.43%, avg=18.29, stdev=18.33, samples=2526
+   iops        : min=    0, max=   69, avg= 4.30, stdev= 4.56, samples=2526
+  lat (usec)   : 10=0.01%, 50=0.01%
+  lat (msec)   : 2=2.12%, 4=6.13%, 10=17.90%, 20=13.14%, 50=17.56%
+  lat (msec)   : 100=10.47%, 250=11.73%, 500=8.98%, 750=4.86%, 1000=2.74%
+  cpu          : usr=0.01%, sys=0.03%, ctx=10486, majf=303, minf=914
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=9883,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+
+Run status group 0 (all jobs):
+   READ: bw=1279KiB/s (1310kB/s), 1279KiB/s-1279KiB/s (1310kB/s-1310kB/s), io=37.8MiB (39.7MB), run=30270-30270msec
+
+Disk stats (read/write):
+  sdd: ios=9899/15, merge=0/2, ticks=1763711/50, in_queue=1758801, util=9.26%
